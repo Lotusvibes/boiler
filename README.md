@@ -1,18 +1,10 @@
-# phibber
+# Boilerplate for React
 
-Hey this info is already online!
+### This repo contains a basic file set to quickly reproduce some styles in a simple configuration of header, body, and footer components.  The App component is class based so you can add state efficiently and get moving into creating and styling a new component with ease.  Sass is used and as such, the variables and mixins should allow a quick update to referencing elements. 
 
-Main Image: https://flic.kr/p/YopRAc
+### The folders and files are set to operate with Linux-based systems, allowing immediate deployment to Heroku and pipelining with CI/CD.
 
-Watch It:
-https://soundcloud.com/phibber/watch-it/s-3te7abLp6QF
-https://flic.kr/p/2n7yesq
+(pick out a font on google fonts)[https://fonts.google.com/]
+(grab some css to go with these generators)[https://github.com/bradtraversy/css-generator-examples/blob/main/readme.md]
 
-Paradise:
-https://soundcloud.com/phibber/paradise-1/s-FBAOHUS4iQn
-https://flic.kr/p/2n7yH6d
-
-Ghostly:
-https://soundcloud.com/phibber/ghostly/s-HhgtmJfKl0a
-https://flic.kr/p/U9BuxC
 

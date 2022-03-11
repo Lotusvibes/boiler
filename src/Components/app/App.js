@@ -28,8 +28,7 @@ class App extends React.Component {
               href="soundcloud.com/phibber"
               target="_blank"
               rel="noopener noreferrer"
-            >
-              Whistle While you Work
+            >Whistle While you Work
             </a>
           </div>
           <div className="petal">
