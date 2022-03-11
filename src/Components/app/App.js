@@ -4,6 +4,7 @@ import './App.scss';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Inanima from '../pics/Inanima.png';
+import landscape from '../pics/landscape.png';
 
 class App extends React.Component {
   constructor() {
@@ -16,26 +17,19 @@ class App extends React.Component {
         <Header></Header>
         <section className="body">
           <img src={Inanima} className="artwork" alt="artwork" />
-          <div className="title-box">
-
-            <p className="title">
-              PHIBBER
-              {/* Chuck Morris - new app boiler */}
-            </p>
-          </div>
+          <img src={landscape} className="landscape" alt="landscape art" />
           <div className="login-or-link">
             <a
               className="App-link"
-              href="soundcloud.com/phibber"
+              href="https://soundcloud.com/plaid/cord-mix"
               target="_blank"
               rel="noopener noreferrer"
             >Whistle While you Work
             </a>
           </div>
-          <div className="petal">
-
+          <div className="title-box">
             <p className="title">
-              Init commit
+              Chuck's app boiler
             </p>
           </div>
         </section>

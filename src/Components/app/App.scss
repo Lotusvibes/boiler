@@ -50,6 +50,13 @@
 .artwork {
   height: 66vmin;
   pointer-events: none;
+  
+}
+
+.landscape {
+  max-height: 65vh;
+  margin-left: -93vh;
+  margin-top: -65vh;
 }
 
 .title-box {
@@ -60,7 +67,7 @@
   color: $text;
   border-radius: 13% 87% 23% 77% / 12% 30% 70% 88%;
   width: 42vh;
-  margin-top: -1.7vh;
+  margin-top: 0vh;
   @include rocks;
 }
 
@@ -72,13 +79,6 @@
   @include rocks;
 }
 
-.petal {
-  border-radius: 44% 56% 95% 5% / 23% 23% 77% 77% ;
-  width: 5vh;
-  height: 20vh;
-  margin-top: 1.5vh;
-  @include rocks;
-}
 
 // MEDIA QUERIES
 
