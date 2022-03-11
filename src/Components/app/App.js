@@ -8,6 +8,7 @@ import Inanima from '../pics/Inanima.png';
 class App extends React.Component {
   constructor() {
     super();
+    this.state = {};
   }
   render() {
     return (
