@@ -4,7 +4,7 @@
 
 ### The folders and files are set to operate with Linux-based systems, allowing immediate deployment to Heroku and pipelining with CI/CD.
 
-(pick out a font on google fonts)[https://fonts.google.com/]
-(grab some css to go with these generators)[https://github.com/bradtraversy/css-generator-examples/blob/main/readme.md]
+[pick out a font on google fonts](https://fonts.google.com/)
+[grab some css to go with these generators](https://github.com/bradtraversy/css-generator-examples/blob/main/readme.md)
 
 
